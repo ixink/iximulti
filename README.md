@@ -8,7 +8,7 @@ git
 
 Linux Install:
 
-sudo su git clone http://github.com/ixink/iximulti.git
+sudo git clone http://github.com/ixink/iximulti.git
 
 Run
 
