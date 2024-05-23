@@ -27,7 +27,7 @@ cd iximulti
 python3 multi.py
 -----------------------------
 
-[Note: Do not use root to Run the program. If you run with root it may outout error. Thanks]
+[Note: Do not use root to Run the program. If you run with root it may output error. Thanks]
 -------------------------------
 Coded by ixink
 
