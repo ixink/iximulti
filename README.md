@@ -38,7 +38,7 @@ t.me/ixiinkhat
 
 t.me/ImamSword
 
----------
+
 
 
                     GNU GENERAL PUBLIC LICENSE
