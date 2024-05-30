@@ -26,6 +26,8 @@ Run
     cd iximulti
 
     python3 multi.py
+    or
+    python3 click.py
 -----------------------------
 
     [Note: Do not use root to Run the program. If you run with root it may output error. Thanks]
