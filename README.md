@@ -25,6 +25,8 @@ Run
 ---------
     cd iximulti
 
+    python3 install.py
+
     python3 multi.py
     or
     python3 click.py
